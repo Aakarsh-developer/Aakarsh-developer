@@ -46,9 +46,9 @@ Currently working on web development projects and preparing for software job opp
 ---
 
 ## 📫 Contact Me
-- LinkedIn: (Add link)
-- Email: (Add email)
-- Portfolio: (Optional)
+- LinkedIn: (https://www.linkedin.com/in/aakarsh-verma05/)
+- Email: (aakarshvermaav05@gmail.com)
+- Portfolio: (https://resume-aakarsh.vercel.app/)
 
 ---
 
